@@ -1,0 +1,8 @@
+Nombre:
+Roberto Burgos Ahenke
+
+Pasos para iniciar el proyecto:
+    npm install
+    json-server --watch db.json --port 4000
+    npm install --save axios vue-axios
+    npm run serve
